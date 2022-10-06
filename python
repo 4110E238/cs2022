@@ -1,1 +1,11 @@
 
+ Python Strings
+strings in Python are arrays of bytes representing unicode characters.
+a = "Hello, 珍古絲汀"
+"
+print(a[7])
+
+# strings == > array
+# index begins with 0
+
+
